@@ -59,7 +59,22 @@
 .work-h1{
     padding-top: 1000px;
     margin-left: 500px;
-    min-height: 300px;
+    min-height: 70px;
     width: 100%;
-
+}
+.work-h1 span{
+    color: red;
+}
+#img1{
+    float: left;
+    width: 25%;
+}
+#img2{
+    float: center;
+    width: 25%;
+}
+#img3{
+    float: right;
+    width: 25%
+    
 }
